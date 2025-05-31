@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2025.1.13)  15 APR 2025 21:07
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2025.1.13)  22 APR 2025 13:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -569,8 +569,13 @@ File: ../titul/titul.pdf Graphic file (type pdf)
  [1
 
 ] (./report.toc
-Overfull \hbox (23.09534pt too wide) in paragraph at lines 5--5
- [][] [][][]\TU/TimesNewRoman(0)/m/n/14.4 Российские нормативы: НПБ-99/2009 и ОСПОРБ-99/2010 
+Overfull \hbox (8.69534pt too wide) in paragraph at lines 7--7
+ [][] [][][]\TU/TimesNewRoman(0)/m/n/14.4 Российские нормативы: НПБ-99/2009 и ОСПОРБ-99/2010[][] [][]  
+ []
+
+
+Overfull \hbox (6.20859pt too wide) in paragraph at lines 9--9
+ \TU/TimesNewRoman(0)/m/n/14.4 ной безопасности на разных объектах (медицина, энер- 
  []
 
 )
@@ -578,221 +583,201 @@ Overfull \hbox (23.09534pt too wide) in paragraph at lines 5--5
 \openout4 = `report.toc'.
 
  [2]
-Overfull \hbox (2.6451pt too wide) in paragraph at lines 12--13
+Overfull \hbox (2.6451pt too wide) in paragraph at lines 13--14
 \TU/TimesNewRoman(0)/m/n/14.4 ных инцидентов в прошлом, такие как аварии на Чернобыльской АЭС
  []
 
 
-Overfull \hbox (0.8909pt too wide) in paragraph at lines 17--18
+Overfull \hbox (0.8909pt too wide) in paragraph at lines 18--19
 []\TU/TimesNewRoman(0)/b/n/14.4 Расширение применения радиационных технологий. \TU/TimesNewRoman(0)/m/n/14.4 От ди-
  []
 
 
-Overfull \hbox (15.97163pt too wide) in paragraph at lines 24--25
+Overfull \hbox (15.97163pt too wide) in paragraph at lines 25--26
 \TU/TimesNewRoman(0)/m/n/14.4 отраслях, а также выявить тенденции в развитии нормативно-правового
  []
 
+
+Overfull \hbox (7.37122pt too wide) in paragraph at lines 33--34
+[]\TU/TimesNewRoman(0)/m/n/14.4 Внешнее облучение — от наружных источников излучения (кос-
+ []
+
 [3]
-Overfull \hbox (4.8224pt too wide) in paragraph at lines 35--36
-[]\TU/TimesNewRoman(0)/b/n/14.4 Стандарты МАГАТЭ. \TU/TimesNewRoman(0)/m/n/14.4 Документы МАГАТЭ, например, «Safety
+Overfull \hbox (2.46225pt too wide) in paragraph at lines 34--35
+[]\TU/TimesNewRoman(0)/m/n/14.4 Внутреннее — от радиоактивных веществ, попадающих внутрь
  []
 
 
-Overfull \hbox (7.43686pt too wide) in paragraph at lines 40--41
-\TU/TimesNewRoman(0)/m/n/14.4 применение принципа оптимизации в Европе может иметь более стро-
+Overfull \hbox (1.84587pt too wide) in paragraph at lines 40--41
+[]\TU/TimesNewRoman(0)/m/n/14.4 Острое облучение — облучение, длительность которого не пре-
+ []
+
+
+Overfull \hbox (2.74934pt too wide) in paragraph at lines 49--50
+[]\TU/TimesNewRoman(0)/m/n/14.4 Локальное облучение (местное) — облучение отдельных участ-
  []
 
 [4]
-Overfull \hbox (7.63628pt too wide) in paragraph at lines 42--42
+Overfull \hbox (2.6134pt too wide) in paragraph at lines 64--65
+[]\TU/TimesNewRoman(0)/b/n/14.4 Международная комиссия по радиационной защите (МКРЗ,
+ []
+
+[5]
+Overfull \hbox (11.01935pt too wide) in paragraph at lines 72--73
+[]\TU/TimesNewRoman(0)/b/n/14.4 Принцип обоснования\TU/TimesNewRoman(0)/m/n/14.4 : любое использование источников иони-
+ []
+
+
+Overfull \hbox (2.5384pt too wide) in paragraph at lines 88--89
+\TU/TimesNewRoman(0)/m/n/14.4 конодательства и стандартов радиационной безопасности в раз-
+ []
+
+[6]
+Overfull \hbox (7.63628pt too wide) in paragraph at lines 93--93
 []\TU/TimesNewRoman(0)/b/n/17.28 Российские нормативы: НПБ-99/2009 и ОСПОРБ-
  []
 
 
-Overfull \hbox (2.12242pt too wide) in paragraph at lines 44--45
-\TU/TimesNewRoman(0)/m/n/14.4 ационной безопасности представлена комплексом документов, вклю-
- []
-
-
-Overfull \hbox (3.00493pt too wide) in paragraph at lines 51--52
-[]\TU/TimesNewRoman(0)/b/n/14.4 Несовместимость с международными стандартами. \TU/TimesNewRoman(0)/m/n/14.4 Несмот-
- []
-
-
-Overfull \hbox (10.6384pt too wide) in paragraph at lines 53--54
-\TU/TimesNewRoman(0)/m/n/14.4 кументе недостаточно детально описаны требования по ALARA,
- []
-
-[5]
-Overfull \hbox (3.78893pt too wide) in paragraph at lines 55--56
-[]\TU/TimesNewRoman(0)/b/n/14.4 Отсутствие регулярного обновления. \TU/TimesNewRoman(0)/m/n/14.4 С учетом быстрого про-
- []
-
-
-Overfull \hbox (7.78494pt too wide) in paragraph at lines 55--56
-\TU/TimesNewRoman(0)/m/n/14.4 гресса в области исследования радиационного воздействия, нор-
- []
-
-
-Overfull \hbox (3.56744pt too wide) in paragraph at lines 65--66
-[]\TU/TimesNewRoman(0)/b/n/14.4 Введение системного контроля. \TU/TimesNewRoman(0)/m/n/14.4 ОСПОРБ-99/2010 предусмат-
- []
-
-
-Overfull \hbox (5.0357pt too wide) in paragraph at lines 65--66
-\TU/TimesNewRoman(0)/m/n/14.4 стояния радиационной обстановки на объектах, что способству-
- []
-
-
-Overfull \hbox (0.9905pt too wide) in paragraph at lines 73--74
-[]\TU/TimesNewRoman(0)/b/n/14.4 Нечеткая граница ответственности. \TU/TimesNewRoman(0)/m/n/14.4 В документах иногда от-
- []
-
-
-Overfull \hbox (16.89355pt too wide) in paragraph at lines 76--76
-[]\TU/TimesNewRoman(0)/b/n/17.28 Сравнение с нормативами других стран (ЕС, США,
- []
-
-[6]
-Overfull \hbox (8.6193pt too wide) in paragraph at lines 83--84
-\TU/TimesNewRoman(0)/m/n/14.4 ет общие требования для защиты от радиационных рисков, опре-
- []
-
-
-Overfull \hbox (5.75887pt too wide) in paragraph at lines 85--86
-[]\TU/TimesNewRoman(0)/b/n/14.4 Европейская система раннего предупреждения. \TU/TimesNewRoman(0)/m/n/14.4 Один из при-
+Overfull \hbox (0.53815pt too wide) in paragraph at lines 95--96
+\TU/TimesNewRoman(0)/m/n/14.4 нормальных и аварийных условиях. В России действуют нормы НРБ-
  []
 
 [7]
-Overfull \hbox (13.23071pt too wide) in paragraph at lines 105--106
-[]\TU/TimesNewRoman(0)/b/n/14.4 Разработка системы многоуровневой защиты. \TU/TimesNewRoman(0)/m/n/14.4 Внедрение ком-
- []
-
-
-Overfull \hbox (0.25098pt too wide) in paragraph at lines 108--109
-[]\TU/TimesNewRoman(0)/m/n/14.4 Сравнительный анализ показывает, что, несмотря на общие прин-
- []
-
-
-Overfull \hbox (0.57323pt too wide) in paragraph at lines 108--109
-\TU/TimesNewRoman(0)/m/n/14.4 кументы разных стран имеют свои специфические особенности, про-
+Overfull \hbox (1.78084pt too wide) in paragraph at lines 120--121
+[]\TU/TimesNewRoman(0)/m/n/14.4 Санитарные правила работы с радиоактивными вещества-
  []
 
 [8]
-Overfull \hbox (2.72124pt too wide) in paragraph at lines 123--124
-\TU/TimesNewRoman(0)/m/n/14.4 На основании международных и национальных стандартов раз-
+Overfull \hbox (3.3751pt too wide) in paragraph at lines 132--133
+[]\TU/TimesNewRoman(0)/m/n/14.4 Документ охватывает весь жизненный цикл радиационных объ-
  []
 
 
-Overfull \hbox (16.92094pt too wide) in paragraph at lines 131--132
-[]\TU/TimesNewRoman(0)/b/n/14.4 Мониторинг состояния оборудования. \TU/TimesNewRoman(0)/m/n/14.4 Современные АЭС осна-
+Overfull \hbox (6.88788pt too wide) in paragraph at lines 138--139
+[]\TU/TimesNewRoman(0)/m/n/14.4 выбор и обоснование мест размещения радиационных объ-
+ []
+
+
+Overfull \hbox (12.45126pt too wide) in paragraph at lines 151--152
+\TU/TimesNewRoman(0)/m/n/14.4 правилах СП 2.6.1.2612-10 «Основные санитарные правила обес-
  []
 
 [9]
-Overfull \hbox (1.5224pt too wide) in paragraph at lines 145--146
-\TU/TimesNewRoman(0)/m/n/14.4 сертификацию оборудования, использующего источники иони-
+Overfull \hbox (1.95946pt too wide) in paragraph at lines 153--154
+[]\TU/TimesNewRoman(0)/m/n/14.4 ОСПОРБ соответствует Федеральному закону РФ от 09.01.1996
  []
 
 
-Overfull \hbox (4.40414pt too wide) in paragraph at lines 147--148
-[]\TU/TimesNewRoman(0)/b/n/14.4 Интеграция автоматизированных систем мониторинга. \TU/TimesNewRoman(0)/m/n/14.4 Раз-
+Overfull \hbox (6.29323pt too wide) in paragraph at lines 156--156
+[]\TU/TimesNewRoman(0)/b/n/17.28 Различия норм радиационной безопасности в Рос-
  []
 
 
-Overfull \hbox (2.86478pt too wide) in paragraph at lines 150--150
-[]\TU/TimesNewRoman(0)/b/n/17.28 Новейшие исследования в области радиационной
+Overfull \hbox (11.33165pt too wide) in paragraph at lines 162--163
+[]\TU/TimesNewRoman(0)/b/n/14.4 США\TU/TimesNewRoman(0)/m/n/14.4 : Международное агентство по атомной энергии (МА-
  []
 
 
-Overfull \hbox (4.00558pt too wide) in paragraph at lines 152--153
-\TU/TimesNewRoman(0)/m/n/14.4 Научно-исследовательский сектор активно занимается вопросами оп-
+Overfull \hbox (1.72932pt too wide) in paragraph at lines 162--163
+\TU/TimesNewRoman(0)/m/n/14.4 ГАТЭ) допускает \TU/TimesNewRoman(0)/b/n/14.4 50 мЗв/год\TU/TimesNewRoman(0)/m/n/14.4 , но американские нормы бли-
  []
 
 
-Overfull \hbox (7.36185pt too wide) in paragraph at lines 155--156
-\TU/TimesNewRoman(0)/m/n/14.4 вационных материалов и сенсоров позволяет повысить точность
+Overfull \hbox (3.35487pt too wide) in paragraph at lines 167--168
+\TU/TimesNewRoman(0)/m/n/14.4 том на минимизацию доз. Например, для космонавтов рос-
  []
 
 
-Overfull \hbox (10.36308pt too wide) in paragraph at lines 155--156
-\TU/TimesNewRoman(0)/m/n/14.4 измерения уровня облучения, что ведет к более корректной оцен-
+Overfull \hbox (30.25156pt too wide) in paragraph at lines 168--169
+\TU/TimesNewRoman(0)/m/n/14.4 исхода от рака, игнорируя другие радиационно-обусловленные
  []
 
 [10]
-Overfull \hbox (2.38138pt too wide) in paragraph at lines 157--158
-\TU/TimesNewRoman(0)/m/n/14.4 временные биомедицинские исследования помогают лучше по-
+Overfull \hbox (12.6887pt too wide) in paragraph at lines 179--180
+[]\TU/TimesNewRoman(0)/b/n/14.4 Россия\TU/TimesNewRoman(0)/m/n/14.4 : Развита система АСКРО (автоматизированный кон-
  []
 
 
-Overfull \hbox (5.85243pt too wide) in paragraph at lines 159--160
-\TU/TimesNewRoman(0)/m/n/14.4 помощью компьютерного моделирования разрабатываются сце-
+Overfull \hbox (4.99176pt too wide) in paragraph at lines 179--180
+\TU/TimesNewRoman(0)/m/n/14.4 троль радиационной обстановки) и глубокоэшелонирован-
+ []
+
+
+Overfull \hbox (0.10861pt too wide) in paragraph at lines 180--181
+\TU/TimesNewRoman(0)/m/n/14.4 пример, через Национальную администрацию по ядерной
+ []
+
+
+Overfull \hbox (2.24846pt too wide) in paragraph at lines 186--187
+\TU/TimesNewRoman(0)/m/n/14.4 производства до утилизации, включая медицинские и про-
  []
 
 [11]
-Overfull \hbox (72.38368pt too wide) in paragraph at lines 183--193
- [][] 
+Overfull \hbox (7.35481pt too wide) in paragraph at lines 193--194
+\TU/TimesNewRoman(0)/m/n/14.4 на практическую целесообразность и восстановление после ава-
+ []
+
+
+Overfull \hbox (8.94637pt too wide) in paragraph at lines 200--201
+\TU/TimesNewRoman(0)/m/n/14.4 жающей среды от воздействия ионизирующего излучения. Ниже пред-
  []
 
 [12]
-Overfull \hbox (8.3229pt too wide) in paragraph at lines 202--203
-[]\TU/TimesNewRoman(0)/b/n/14.4 Ужесточение предельных доз. \TU/TimesNewRoman(0)/m/n/14.4 Современные нормативы преду-
+Overfull \hbox (6.02011pt too wide) in paragraph at lines 210--211
+[]\TU/TimesNewRoman(0)/b/n/14.4 Ограничение времени облучения: \TU/TimesNewRoman(0)/m/n/14.4 Оптимизация времени про-
  []
 
 
-Overfull \hbox (1.97836pt too wide) in paragraph at lines 206--207
-[]\TU/TimesNewRoman(0)/b/n/14.4 Международная гармонизация нормативов. \TU/TimesNewRoman(0)/m/n/14.4 После катастро-
+Overfull \hbox (7.68176pt too wide) in paragraph at lines 220--221
+\TU/TimesNewRoman(0)/m/n/14.4 стемами, предотвращающими выбросы радиоактивных веществ
  []
 
 
-Overfull \hbox (7.52838pt too wide) in paragraph at lines 208--209
-[]\TU/TimesNewRoman(0)/b/n/14.4 Инновационные технологии. \TU/TimesNewRoman(0)/m/n/14.4 Внедрение цифровых систем мо-
+Overfull \hbox (0.4115pt too wide) in paragraph at lines 221--222
+[]\TU/TimesNewRoman(0)/b/n/14.4 Автоматизированный радиационный контроль: \TU/TimesNewRoman(0)/m/n/14.4 Установле-
  []
 
 [13]
-Overfull \hbox (3.66821pt too wide) in paragraph at lines 218--219
-[]\TU/TimesNewRoman(0)/b/n/14.4 Актуальность и комплексность проблемы. \TU/TimesNewRoman(0)/m/n/14.4 Современные вы-
+Overfull \hbox (6.41263pt too wide) in paragraph at lines 237--238
+\TU/TimesNewRoman(0)/m/n/14.4 онного обследования объектов и мониторинга окружающей сре-
  []
 
 
-Overfull \hbox (11.13777pt too wide) in paragraph at lines 220--221
-\TU/TimesNewRoman(0)/b/n/14.4 базе. \TU/TimesNewRoman(0)/m/n/14.4 Сравнительный анализ международных и российских стан-
+Overfull \hbox (0.90959pt too wide) in paragraph at lines 238--239
+\TU/TimesNewRoman(0)/m/n/14.4 логических процессов, сбор, переработка и захоронение радио-
  []
 
 
-Overfull \hbox (4.98773pt too wide) in paragraph at lines 222--223
-[]\TU/TimesNewRoman(0)/b/n/14.4 Практическая ориентированность нормативов. \TU/TimesNewRoman(0)/m/n/14.4 Несмотря на
+Overfull \hbox (7.56575pt too wide) in paragraph at lines 244--245
+[]\TU/TimesNewRoman(0)/m/n/14.4 Эти примеры демонстрируют важность строгого соблюдения норм
  []
 
 
-Overfull \hbox (6.16307pt too wide) in paragraph at lines 224--225
-\TU/TimesNewRoman(0)/m/n/14.4 вов, что позволяет оперативно реагировать на выявленные недо-
- []
-
-[14]
-Overfull \hbox (13.8728pt too wide) in paragraph at lines 229--230
-\TU/TimesNewRoman(0)/m/n/14.4 опасности связаны с дальнейшей гармонизацией международных стан-
+Overfull \hbox (2.83742pt too wide) in paragraph at lines 248--249
+\TU/TimesNewRoman(0)/m/n/14.4 вого развития современной науки, техники и промышленности. Срав-
  []
 
 
-Overfull \hbox (0.9939pt too wide) in paragraph at lines 229--230
-\TU/TimesNewRoman(0)/m/n/14.4 ро меняющейся технологической и экологической обстановки [[], []]. 
+Overfull \hbox (9.24039pt too wide) in paragraph at lines 250--251
+[]\TU/TimesNewRoman(0)/m/n/14.4 Российские стандарты, такие как НРБ-99/2009 и ОСПОРБ-99/2010,
  []
 
-[15]
-Underfull \hbox (badness 1983) in paragraph at lines 233--234
+[14] [15]
+Underfull \hbox (badness 1983) in paragraph at lines 257--258
 []\TU/TimesNewRoman(0)/m/n/14.4 Международное агентство по атомной энергии (МАГАТЭ).
  []
 
 [16] [17] (./report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 11330DE4D2F11E54182B04566BFEE1E7;5224.
+(rerunfilecheck)             Checksum: AF520C58C31477E0A9E62784DDB630BD;3494.
  ) 
 Here is how much of TeX's memory you used:
- 14332 strings out of 477416
- 279332 string characters out of 5844818
- 652571 words of memory out of 5000000
- 34745 multiletter control sequences out of 15000+600000
- 471143 words of font info for 54 fonts, out of 8000000 for 9000
+ 14326 strings out of 477416
+ 279307 string characters out of 5844818
+ 650773 words of memory out of 5000000
+ 34738 multiletter control sequences out of 15000+600000
+ 471151 words of font info for 55 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
- 88i,17n,91p,774b,481s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 88i,17n,91p,1103b,486s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on report.pdf (17 pages).
